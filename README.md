@@ -1,2 +1,2 @@
-# New Journeu
+# New Journey
 New Jersey Bucket List Application - SWE 2 Project
